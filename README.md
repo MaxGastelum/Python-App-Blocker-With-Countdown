@@ -24,4 +24,4 @@ Python was the only language used. The Tkinter library was used to create the gr
 The countdown timer is inspired by one created by @ShaunHalverson on GitHub.
 
 # Notes
-Multiprocessing was used in order to keep track of time for the visual countdown and the one to block the apps seperately. This was done so the countdown timer will remain as accurate as possible but it is still a 2-5 seconds slower than the actual time. 
+Multiprocessing was used in order to keep track of time for the visual countdown and the one to block the apps seperately. This was done so the countdown timer will remain as accurate as possible but it is still a 1-3 seconds slower than the actual time. It is also import to note that the program does not check to see if the .exe file exist in the system before adding it to the list of programs to block.
