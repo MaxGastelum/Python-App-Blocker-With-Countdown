@@ -1,6 +1,6 @@
 # Python-App-Blocker-With-Countdown
 # Description
-This is a program meant to boost productivity by closing user specified programs for a set amount of time. If the user were to open one the apps before the set time it automatically closes.
+This is a program meant to boost productivity by closing user specified programs for a set amount of time. If the user were to open one of the apps before the set time ends, it automatically closes.
 
 The user can add programs to be blocked by typing in the name.exe and clicking the "Add" button. For example if the user would want to block Spotify...
 
