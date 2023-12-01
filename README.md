@@ -2,7 +2,7 @@
 # Description
 This is a program meant to boost productivity by closing user specified programs for a set amount of time. If the user were to open one of the apps before the set time ends, it automatically closes.
 
-The user can add programs to be blocked by typing in the name.exe and clicking the "Add" button. For example if the user would want to block Spotify...
+The user can add programs to be blocked by typing in the name.exe and clicking the "Add" button. For example, if the user would want to block Spotify...
 
 ![Example1](https://user-images.githubusercontent.com/78455758/150659880-ec32e249-68ff-4c55-b764-d8330f23aba7.PNG)
 
