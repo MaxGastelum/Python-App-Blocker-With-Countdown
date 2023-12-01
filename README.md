@@ -18,10 +18,10 @@ When the countdown is over the user will be presented with a message box notifyi
 
 
 # Requirements
-Python was the only language used. The Tkinter library was used to create the graphical user interface and the psutil libary was used to monitor system process. In order to use psutil it must be installed. To do so use "pip install psutil" in the command line(exlcude the "") or add it through your IDE. Tkinter is more commonly used and often found already installed. 
+Python was the only language used. The Tkinter library was used to create the graphical user interface and the psutil libary was used to monitor system processes. In order to use psutil it must be installed. To do so use "pip install psutil" in the command line(exlcude the "") or add it through your IDE. Tkinter is more commonly used and often found already installed. 
 
 # Credit
 The countdown timer is inspired by one created by @ShaunHalverson on GitHub.
 
 # Notes
-Multiprocessing was used in order to keep track of time for the visual countdown and the one to block the apps seperately. This was done so the countdown timer will remain as accurate as possible but it is still a 1-3 seconds slower than the actual time. It is also import to note that the program does not check to see if the .exe file exist in the system before adding it to the list of programs to block.
+Multiprocessing was used in order to keep track of time for the visual countdown and the one to block the apps seperately. This was done so the countdown timer will remain as accurate as possible but it is still 1-3 seconds slower than the actual time. It is also import to note that the program does not check to see if the .exe file exist in the system before adding it to the list of programs to block.
