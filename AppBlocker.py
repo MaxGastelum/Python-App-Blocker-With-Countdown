@@ -22,8 +22,8 @@ def add_program():
         new_program.pack(padx= 2, pady= 3)
 
 
-# When start button is click ulti_count calls this function and a new window is displayed to show countdown
-# Inspired by the time created by Shaun Halverson on GitHub
+# When start button is clicked ulti_count calls this function and a new window is displayed to show countdown
+# Inspired by the timer created by Shaun Halverson on GitHub
 def display_count(in_hours, in_minutes, in_seconds):
 
     #Creating the new window and configuring it
