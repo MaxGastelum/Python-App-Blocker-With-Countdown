@@ -18,7 +18,7 @@ When the countdown is over the user will be presented with a message box notifyi
 
 
 # Requirements
-Python was the only language used. The Tkinter library was used to create the graphical user interface and the psutil libary was used to monitor system processes. In order to use psutil it must be installed. To do so use "pip install psutil" in the command line(exlcude the "") or add it through your IDE. Tkinter is more commonly used and often found already installed. 
+Python was the only language used. The Tkinter library was used to create the graphical user interface and the psutil library was used to monitor system processes. In order to use psutil it must be installed. To do so use "pip install psutil" in the command line(exlcude the "") or add it through your IDE. Tkinter is more commonly used and often found already installed. 
 
 # Credit
 The countdown timer is inspired by one created by @ShaunHalverson on GitHub.
